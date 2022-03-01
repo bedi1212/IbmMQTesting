@@ -1,4 +1,4 @@
-package com.bedi.IbmMqTesting;
+package com.bedi.ibmmq;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
